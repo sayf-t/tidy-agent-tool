@@ -1,0 +1,8 @@
+{
+  "name": "tidy-agent-tool",
+  "version": "1.0.0",
+  "bin": {
+    "tidydir": "./bin/cli.js"
+  },
+  "type": "module"
+}
